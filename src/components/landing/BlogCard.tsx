@@ -19,7 +19,7 @@ interface BlogCardProps {
 
 const BlogCard = ({
   title = "How to Maximize Your SaaS Productivity yolo",
-  description = "Learn the best practices and tips for getting the most out of your SaaS tools and improving team collaboration.",
+  description = "Learn the best practices and tips for getting the most out of your SaaS tools and improving team collaboration. And make me yolo",
   imageUrl = "https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80",
   date = "Oct 12, 2023",
   readTime = "5 min read",
